@@ -20,4 +20,4 @@
 
 ## 📫 Let's Connect
 - 📧 Email: akshatmohite0849k@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/akshat-mohite-a32654349/]
+- 💼 LinkedIn: [Akshat Mohite] (https://www.linkedin.com/in/akshat-mohite-a32654349/)
