@@ -1,15 +1,23 @@
-# 👋 Hey, I'm Akshat Mohite
+# Hey, I'm Akshat Mohite 👋
 
-💻 BCA Student | 🔐 Cybersecurity Enthusiast | 🧠 Always Learning
+🔒 BCA Student | Cybersecurity Enthusiast | Always Learning
 
-I'm currently building my skills in ethical hacking, network security, and tools like:
-- Kali Linux, Nmap, Wireshark, Nikto, Netcat
-- TryHackMe Labs & Challenges
-- Cyber lab setup with VirtualBox
+## 🛠️ Skills & Tools
+- **OS:** Kali Linux, Windows
+- **Tools:** Nmap, Wireshark, Nikto, Netcat, VirtualBox
+- **Languages:** Python, HTML/CSS, C, C++
+- **Platforms:** TryHackMe, HackTheBox
 
-📚 Currently learning:
-- Reconnaissance & scanning
-- Exploitation basics
-- Writing vulnerability reports
+## 📚 Currently Learning
+- Reconnaissance & scanning techniques
+- Basics of exploitation & penetration testing
+- Writing professional vulnerability reports
 
-🚀 Check out my pinned repositories for projects & notes!
+## 🔭 Current Projects
+- Building a Python network scanner
+- Documenting TryHackMe lab solutions
+- Setting up a home cyber lab
+
+## 📫 Let's Connect
+- 📧 Email: akshatmohite0849k@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/akshat-mohite-a32654349/]
